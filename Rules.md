@@ -5,7 +5,7 @@ Given
     - **Airplane.java**: Class defination for Airplane
     - **Jet.java**: Class defination for Jet 
     - **Options.txt**:  Possible value of the blank values in FlyTest in Problem.txt
-    - **Problem.txt**: Cotains the puzzle problem 
+    - **Problem.txt**: Contains the puzzle problem 
     - **Rules.md**: Contains the rules for the puzzle
     - **Output.txt**: Expected output after running program in problem.txt
 
