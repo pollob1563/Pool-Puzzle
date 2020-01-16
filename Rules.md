@@ -12,7 +12,7 @@ Given
 Rules
 - Your job is to take code snippets from the pool of Options.txt and place them into the blank 
 lines in the code of Problems.txt.
-- You may use the same snippet ( options from Option.txt ) more than once in the blank space, or you won't 
+- You may use the same snippet ( options from Options.txt ) more than once in the blank space, or you won't 
 need to use the snippets.
 - Your goal is to create a class that will compile, run and produce the output listed.
 
